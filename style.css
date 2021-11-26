@@ -1,0 +1,24 @@
+h1{ color:blue
+}
+p{ background-color: rgb(99, 233, 111)}
+
+.formulaire{ background-color: rgb(201, 192, 233);}
+
+#button{ background-color: rgb(235, 137, 145);}
+
+body {
+    background-color: lightblue;padding: 110px 50px 50px 110px;
+  }
+  .paragraphe{
+    font-family: cursive;
+  }
+  h2{color:brown}
+  .title{color:crimson}
+  #lists{font-family: system-ui;}
+  #navigation{
+    background-color: rgb(62, 192, 11);
+    transition: background-color .5s;
+  }
+  #navigation:hover {
+    background-color: gold;
+  }
